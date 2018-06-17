@@ -1,3 +1,3 @@
-service:
+limits-service:
   minimum: 2
   maximum: 22
