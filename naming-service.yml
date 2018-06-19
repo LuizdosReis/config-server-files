@@ -2,3 +2,5 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
+    service-url:
+      default-zone: http://naming-service:8761/eureka
